@@ -6,8 +6,6 @@
 
 <p align="center">
 
-# 🛡️ SoonaPaanaSecurityKit
-
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift)
 ![SPM](https://img.shields.io/badge/SPM-compatible-green.svg?logo=swift)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20UIKit-blue?logo=apple)
