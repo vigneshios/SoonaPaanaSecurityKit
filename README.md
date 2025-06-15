@@ -34,5 +34,3 @@ In Xcode:
 4. Subclass your class with SoonaPaanaTextField / SoonaPaanTextView.
 5. Long-press on the field or text view to see the original text temporarily.
 
-   
-   https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsoona-paana-gif-22072380&psig=AOvVaw1xojBaCHSrIkb4K1MCWENs&ust=1750084166766000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjw2JzR840DFQAAAAAdAAAAABAE
