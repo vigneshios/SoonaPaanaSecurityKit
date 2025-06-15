@@ -5,6 +5,21 @@
 <h1 align="center">🛡️ SoonaPaanaSecurityKit</h1>
 
 <p align="center">
+
+# 🛡️ SoonaPaanaSecurityKit
+
+![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift)
+![SPM](https://img.shields.io/badge/SPM-compatible-green.svg?logo=swift)
+![Platform](https://img.shields.io/badge/Platform-iOS%20UIKit-blue?logo=apple)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Last Commit](https://img.shields.io/github/last-commit/vigneshios/SoonaPaanaSecurityKit)
+[![Demo App](https://img.shields.io/badge/Demo-App-lightgrey)](https://github.com/vigneshios/SoonaPaanaLibraryDemoApp)
+![Stars](https://img.shields.io/github/stars/vigneshios/SoonaPaanaSecurityKit?style=social)
+
+**Looks like nonsense to others. Makes perfect sense to you.**  
+<sub>SoonaPaana-style input obfuscation for privacy with personality.</sub>
+
+  
   <strong>Looks like nonsense to others. Makes perfect sense to you.</strong><br/>
 <em>SoonaPaana-style input obfuscation for privacy with personality</em>
 </p>
@@ -55,7 +70,6 @@ https://github.com/vigneshios/SoonaPaanaLibraryDemoApp/tree/master
 | `SoonaPaanaConfuser`  | Obfuscates and restores original text |
 
 ---
-
 ##  Installation
 
 ###  Swift Package Manager (SPM)
@@ -86,6 +100,7 @@ let textView = SoonaPaanaTextView()
 textView.text = "Hide my story..."
 
 ---
+
 
 
 
