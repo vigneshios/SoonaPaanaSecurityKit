@@ -14,9 +14,6 @@
 [![Demo App](https://img.shields.io/badge/Demo-App-lightgrey)](https://github.com/vigneshios/SoonaPaanaLibraryDemoApp)
 ![Stars](https://img.shields.io/github/stars/vigneshios/SoonaPaanaSecurityKit?style=social)
 
-**Looks like nonsense to others. Makes perfect sense to you.**  
-<sub>SoonaPaana-style input obfuscation for privacy with personality.</sub>
-
   
   <strong>Looks like nonsense to others. Makes perfect sense to you.</strong><br/>
 <em>SoonaPaana-style input obfuscation for privacy with personality</em>
