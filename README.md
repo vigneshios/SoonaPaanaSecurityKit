@@ -1,3 +1,6 @@
+
+![vadivelu-po-po](https://github.com/user-attachments/assets/05128604-ff10-45c1-9495-33a96861f631)
+
 # 🛡️ SoonaPaanaSecurityKit
 
 **Hide what you type, reveal only when you want.**  
@@ -34,6 +37,4 @@ In Xcode:
 4. Subclass your class with SoonaPaanaTextField / SoonaPaanTextView.
 5. Long-press on the field or text view to see the original text temporarily.
 
-   
 
-![scary](https://github.com/user-attachments/assets/20271057-5b6f-4668-98a8-3538e0cf013f)
