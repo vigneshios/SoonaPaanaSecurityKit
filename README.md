@@ -32,7 +32,7 @@ People around you are reading over your shoulder.
 Vadivelu, Shoulder surfers, And a sprinkle of common sense.
 
 ## License: MIT 
-Feel free to confuse freely.
+
 
 ## Real-world Use Cases
 -  Building an interface for these and beyond,
@@ -40,6 +40,7 @@ Feel free to confuse freely.
 -  Writing private notes,
 -  Simply confusing nosy co-passengers,co-workers etc..
 -  just for fun!
+-  Feel free to confuse freely.
 
 
   ![soona-paana](https://github.com/user-attachments/assets/036cebf5-ea0f-409d-9b90-20a2516fbcd9)
